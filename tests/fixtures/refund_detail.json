@@ -1,0 +1,188 @@
+{
+ "api": "mtop.taobao.idle.refund.detail",
+ "data": {
+  "data": {
+   "components": [
+    {
+     "data": {
+      "needShowStatusNode": true,
+      "nodeStatusList": [
+       {
+        "nodeStatus": "complete",
+        "txt": "卖家处理"
+       },
+       {
+        "nodeStatus": "finish",
+        "time": "2026-10-26 22:11:50",
+        "txt": "退款结束"
+       }
+      ]
+     },
+     "render": "nodeStatusInfo"
+    },
+    {
+     "data": {
+      "descRichText": [
+       {
+        "data": [
+         {
+          "content": "钱款已原路返回，查看钱款>",
+          "linkUrl": "已脱敏",
+          "style": {
+           "color": "#1f1f1f"
+          },
+          "type": "TEXT"
+         }
+        ]
+       }
+      ],
+      "infoLines": [
+       {
+        "title": "退回原支付账号",
+        "value": "¥20.00"
+       }
+      ],
+      "needShowStatusNode": false,
+      "title": "退款成功¥20.00"
+     },
+     "render": "refundStatusInfo"
+    },
+    {
+     "data": {
+      "biz": "refund-buyer-1",
+      "id": "219517",
+      "title": "你对本次退款流程体验满意吗？"
+     },
+     "render": "investigationInfo"
+    },
+    {
+     "data": {
+      "descRichText": [
+       {
+        "data": [
+         {
+          "content": "默认不支持无理由退，商品存在实质问题可退",
+          "style": {
+           "fontSize": 13
+          }
+         },
+         {
+          "content": " 查看交易指南",
+          "linkUrl": "已脱敏",
+          "style": {
+           "fontSize": 13
+          },
+          "type": "TEXT"
+         }
+        ],
+        "lineHeight": 18
+       }
+      ],
+      "title": "退款规则"
+     },
+     "render": "refundDescribe"
+    },
+    {
+     "data": {
+      "progressNodeList": [
+       {
+        "actionCode": 3011110,
+        "proofInfoList": [],
+        "text": "卖家关闭了订单",
+        "timeStr": "2026-10-26 22:11",
+        "tips": [
+         "退款/未发货/&yen;20.00/协商一致退款"
+        ]
+       }
+      ],
+      "title": "进度详情"
+     },
+     "render": "progressDetail"
+    },
+    {
+     "data": {
+      "itemInfo": {
+       "itemMainPictCdnUrl": "已脱敏",
+       "jumpUrl": "已脱敏",
+       "price": "20.00",
+       "title": "软件资源签名服务"
+      },
+      "refundAmount": "20.00",
+      "refundAmountTitle": "已脱敏",
+      "refundApplyTime": "2026-10-26 22:11",
+      "refundId": "290891714435569407",
+      "refundReason": "协商一致退款",
+      "refundType": "退款"
+     },
+     "render": "refundInfo"
+    },
+    {
+     "data": {
+      "guideItems": [
+       {
+        "linkUrl": "已脱敏",
+        "title": "钱款去向"
+       },
+       {
+        "linkUrl": "已脱敏",
+        "title": "如何再次发起退款申请"
+       }
+      ]
+     },
+     "render": "qaGuideVO"
+    },
+    {
+     "data": [
+      {
+       "clickEvent": {
+        "data": {
+         "url": ""
+        },
+        "type": "url",
+        "utParam": {}
+       },
+       "code": "contact",
+       "name": "联系卖家"
+      },
+      {
+       "clickEvent": {
+        "data": {
+         "url": "已脱敏"
+        },
+        "type": "url",
+        "utParam": {}
+       },
+       "code": "viewCash",
+       "name": "查看钱款"
+      }
+     ],
+     "render": "bottomBar"
+    },
+    {
+     "data": {},
+     "render": "bottomShow"
+    },
+    {
+     "render": "popPostageUrl"
+    }
+   ],
+   "idleRefundStatus": "040",
+   "itemId": "1091579081881",
+   "orderId": "3316978525130041951",
+   "peerUserId": 9100063352000,
+   "refundId": "290891714435569407",
+   "refundStatus": 5,
+   "seller": false
+  },
+  "needDecryptKeys": [
+   "data.encryptedPhone"
+  ],
+  "serverTime": 1793256602837
+ },
+ "ret": [
+  "SUCCESS::调用成功"
+ ],
+ "traceId": "213e001b17932566024622997e10d8",
+ "v": "1.0",
+ "retType": 0
+}

@@ -1,0 +1,392 @@
+{
+ "api": "mtop.idle.web.xyh.item.list",
+ "data": {
+  "cardList": [
+   {
+    "cardData": {
+     "auctionType": "b",
+     "categoryId": 50023914,
+     "detailParams": {
+      "picWidth": "已脱敏",
+      "itemId": "1093170839174",
+      "picUrl": "已脱敏",
+      "imageInfos": "[{\"heightSize\":872,\"major\":true,\"type\":0,\"url\":\"http://img.alicdn.com/bao/uploaded/i3/9100118785/O1CN01qSJs0mZCnSH3th7I_!!4611686018427380863-0-xy_item.jpg\",\"videoCover\":false,\"widthSize\":1920}]",
+      "picHeight": "已脱敏",
+      "postInfo": "包邮",
+      "soldPrice": "3",
+      "title": "实况足球单机版无限球员无限金币"
+     },
+     "detailUrl": "已脱敏",
+     "id": "1093170839174",
+     "itemLabelDataVO": {
+      "labelBucketId": "10",
+      "labelData": {
+       "r2": {
+        "tagList": [
+         {
+          "data": {
+           "color": "#3B3F49",
+           "gradientDirection": "to right",
+           "type": "gradientImageText",
+           "content": "72小时内发布",
+           "leftImage": {
+            "marginRight": "2",
+            "width": "14",
+            "url": "已脱敏",
+            "height": "14",
+            "marginLeft": "2"
+           },
+           "rightImage": {},
+           "gradientColors": [
+            "#F7F7CC",
+            "#FFFFFF"
+           ],
+           "borderRadius": "9",
+           "size": "12",
+           "labelId": "492",
+           "lineHeight": "1.2",
+           "gradientType": "linear",
+           "height": "18"
+          },
+          "utParams": {
+           "args": {
+            "LabelSystem2.0": "1",
+            "content": "72小时内发布"
+           },
+           "arg1": "46_tag_r2_492"
+          }
+         }
+        ],
+        "config": {
+         "mutualLabelBizGroup": "false"
+        }
+       },
+       "r1": {
+        "tagList": [
+         {
+          "data": {
+           "marginRight": "4",
+           "labelId": "13",
+           "width": "28",
+           "type": "img",
+           "alignment": "middle",
+           "content": "freeShippingIcon",
+           "url": "已脱敏",
+           "height": "20"
+          },
+          "utParams": {
+           "args": {
+            "LabelSystem2.0": "1",
+            "content": "freeShippingIcon"
+           },
+           "arg1": "46_tag_r1_13"
+          }
+         }
+        ],
+        "config": {
+         "mutualLabelBizGroup": "true"
+        }
+       }
+      },
+      "serviceUtParams": "[{\"arg1\":\"46_tag_r2_492\",\"args\":{\"LabelSystem2.0\":\"1\",\"content\":\"72小时内发布\"}},{\"arg1\":\"46_tag_r1_13\",\"args\":{\"LabelSystem2.0\":\"1\",\"content\":\"freeShippingIcon\"}}]",
+      "trackParams": {
+       "zhimaOffline": "false",
+       "labelBucketId": "10",
+       "oldZhima": "false",
+       "zhimaLogBucketId": "10",
+       "labId": "320"
+      },
+      "unShowLabelUtParams": "{}"
+     },
+     "itemStatus": 0,
+     "picInfo": {
+      "hasVideo": false,
+      "height": 872,
+      "picUrl": "已脱敏",
+      "width": 1920
+     },
+     "priceInfo": {
+      "preText": "¥",
+      "price": "3"
+     },
+     "title": "实况足球单机版无限球员无限金币",
+     "trackParams": {
+      "isShopUser": "1",
+      "XyhBucketInfo": "db",
+      "labelBucketId": "10",
+      "serviceUtParams": "[{\"arg1\":\"46_tag_r2_492\",\"args\":{\"LabelSystem2.0\":\"1\",\"content\":\"72小时内发布\"}},{\"arg1\":\"46_tag_r1_13\",\"args\":{\"LabelSystem2.0\":\"1\",\"content\":\"freeShippingIcon\"}}]",
+      "XyhBucketId": "14"
+     }
+    },
+    "cardType": 1003
+   },
+   {
+    "cardData": {
+     "auctionType": "b",
+     "categoryId": 50023914,
+     "detailParams": {
+      "picWidth": "已脱敏",
+      "itemId": "1090667179697",
+      "picUrl": "已脱敏",
+      "imageInfos": "[{\"heightSize\":732,\"major\":true,\"type\":0,\"url\":\"http://img.alicdn.com/bao/uploaded/i3/9100118785/O1CN01E1jJatfzZoI1chtU_!!4611686018427380863-0-xy_item.jpg\",\"videoCover\":false,\"widthSize\":800}]",
+      "picHeight": "已脱敏",
+      "postInfo": "包邮",
+      "soldPrice": "14.99",
+      "isSkillProductItem": "true",
+      "title": "软件app小程序全栈开发"
+     },
+     "detailUrl": "已脱敏",
+     "id": "1090667179697",
+     "itemLabelDataVO": {
+      "labelBucketId": "10",
+      "labelData": {
+       "r1": {
+        "tagList": [
+         {
+          "data": {
+           "marginRight": "4",
+           "labelId": "13",
+           "width": "28",
+           "type": "img",
+           "alignment": "middle",
+           "content": "freeShippingIcon",
+           "url": "已脱敏",
+           "height": "20"
+          },
+          "utParams": {
+           "args": {
+            "LabelSystem2.0": "1",
+            "content": "freeShippingIcon"
+           },
+           "arg1": "46_tag_r1_13"
+          }
+         }
+        ],
+        "config": {
+         "mutualLabelBizGroup": "true"
+        }
+       }
+      },
+      "serviceUtParams": "[{\"arg1\":\"46_tag_r1_13\",\"args\":{\"LabelSystem2.0\":\"1\",\"content\":\"freeShippingIcon\"}}]",
+      "trackParams": {
+       "zhimaOffline": "false",
+       "labelBucketId": "10",
+       "oldZhima": "false",
+       "zhimaLogBucketId": "10",
+       "labId": "320"
+      },
+      "unShowLabelUtParams": "{}"
+     },
+     "itemStatus": 0,
+     "picInfo": {
+      "hasVideo": false,
+      "height": 732,
+      "picUrl": "已脱敏",
+      "width": 800
+     },
+     "priceInfo": {
+      "preText": "¥",
+      "price": "14.99"
+     },
+     "title": "软件app小程序全栈开发",
+     "trackParams": {
+      "isShopUser": "1",
+      "XyhBucketInfo": "db",
+      "labelBucketId": "10",
+      "serviceUtParams": "[{\"arg1\":\"46_tag_r1_13\",\"args\":{\"LabelSystem2.0\":\"1\",\"content\":\"freeShippingIcon\"}}]",
+      "XyhBucketId": "14"
+     }
+    },
+    "cardType": 1003
+   },
+   {
+    "cardData": {
+     "auctionType": "b",
+     "categoryId": 50023914,
+     "detailParams": {
+      "picWidth": "已脱敏",
+      "itemId": "1091140482609",
+      "picUrl": "已脱敏",
+      "imageInfos": "[{\"heightSize\":732,\"major\":true,\"type\":0,\"url\":\"http://img.alicdn.com/bao/uploaded/i4/9100118785/O1CN019BnWnAKggND1chtU_!!4611686018427380863-0-xy_item.jpg\",\"videoCover\":false,\"widthSize\":800}]",
+      "picHeight": "已脱敏",
+      "postInfo": "包邮",
+      "soldPrice": "14.99",
+      "isSkillProductItem": "true",
+      "title": "软件开发接单定制"
+     },
+     "detailUrl": "已脱敏",
+     "id": "1091140482609",
+     "itemLabelDataVO": {
+      "labelBucketId": "10",
+      "labelData": {
+       "r1": {
+        "tagList": [
+         {
+          "data": {
+           "marginRight": "4",
+           "labelId": "13",
+           "width": "28",
+           "type": "img",
+           "alignment": "middle",
+           "content": "freeShippingIcon",
+           "url": "已脱敏",
+           "height": "20"
+          },
+          "utParams": {
+           "args": {
+            "LabelSystem2.0": "1",
+            "content": "freeShippingIcon"
+           },
+           "arg1": "46_tag_r1_13"
+          }
+         }
+        ],
+        "config": {
+         "mutualLabelBizGroup": "true"
+        }
+       }
+      },
+      "serviceUtParams": "[{\"arg1\":\"46_tag_r1_13\",\"args\":{\"LabelSystem2.0\":\"1\",\"content\":\"freeShippingIcon\"}}]",
+      "trackParams": {
+       "zhimaOffline": "false",
+       "labelBucketId": "10",
+       "oldZhima": "false",
+       "zhimaLogBucketId": "10",
+       "labId": "320"
+      },
+      "unShowLabelUtParams": "{}"
+     },
+     "itemStatus": 0,
+     "picInfo": {
+      "hasVideo": false,
+      "height": 732,
+      "picUrl": "已脱敏",
+      "width": 800
+     },
+     "priceInfo": {
+      "preText": "¥",
+      "price": "14.99"
+     },
+     "title": "软件开发接单定制",
+     "trackParams": {
+      "isShopUser": "1",
+      "XyhBucketInfo": "db",
+      "labelBucketId": "10",
+      "serviceUtParams": "[{\"arg1\":\"46_tag_r1_13\",\"args\":{\"LabelSystem2.0\":\"1\",\"content\":\"freeShippingIcon\"}}]",
+      "XyhBucketId": "14"
+     }
+    },
+    "cardType": 1003
+   }
+  ],
+  "itemGroupList": [
+   {
+    "defaultGroup": true,
+    "enableItemTop": true,
+    "enableRecommend": true,
+    "extraAttributes": "all",
+    "gmtCreate": "2024-01-08 11:10:27",
+    "gmtModified": "2025-11-12 10:02:34",
+    "groupId": 38882144,
+    "groupName": "综合",
+    "groupSortList": [
+     {
+      "groupSortId": "tppRecommend",
+      "groupSortName": "已脱敏"
+     },
+     {
+      "groupSortId": "newest",
+      "groupSortName": "已脱敏"
+     },
+     {
+      "groupSortId": "highPriceFirst",
+      "groupSortName": "已脱敏"
+     },
+     {
+      "groupSortId": "lowPriceFirst",
+      "groupSortName": "已脱敏"
+     }
+    ],
+    "groupType": 0,
+    "itemGroupType": 0,
+    "itemNumber": 4,
+    "orderSeq": 0,
+    "searchCondition": [],
+    "userId": 9100118785
+   },
+   {
+    "defaultGroup": true,
+    "enableItemTop": true,
+    "enableRecommend": true,
+    "gmtCreate": "2024-01-08 11:10:27",
+    "gmtModified": "2025-12-21 19:04:49",
+    "groupId": 38882145,
+    "groupName": "在售",
+    "groupType": 0,
+    "itemGroupType": 0,
+    "itemNumber": 4,
+    "orderSeq": 3,
+    "searchCondition": [
+     {
+      "status": "0"
+     }
+    ],
+    "userId": 9100118785
+   },
+   {
+    "defaultGroup": true,
+    "enableItemTop": true,
+    "enableRecommend": true,
+    "gmtCreate": "2024-01-08 11:10:27",
+    "gmtModified": "2025-12-21 19:04:49",
+    "groupId": 38882146,
+    "groupName": "已售出",
+    "groupType": 1,
+    "itemGroupType": 0,
+    "itemNumber": 0,
+    "orderSeq": 4,
+    "searchCondition": [
+     {
+      "status": "1"
+     }
+    ],
+    "userId": 9100118785
+   },
+   {
+    "defaultGroup": false,
+    "groupId": -12,
+    "groupName": "包邮",
+    "groupType": 2,
+    "itemGroupType": 0,
+    "itemNumber": 0,
+    "orderSeq": 0,
+    "userId": 0
+   }
+  ],
+  "itemTopicList": [
+   {
+    "ipbItemDTOList": [],
+    "itemCnt": 0,
+    "newPeriod": "day",
+    "topicColor": "已脱敏",
+    "topicId": 2513297,
+    "topicName": "已脱敏",
+    "topicType": "已脱敏",
+    "userId": 9100118785
+   }
+  ],
+  "needDecryptKeys": [],
+  "needDecryptKeysV2": [],
+  "nextPage": false,
+  "serverDecryptKeys": [],
+  "serverTime": "2026-10-29 14:07:21",
+  "topItem": {},
+  "totalCount": 0
+ },
+ "ret": [
+  "SUCCESS::调用成功"
+ ],
+ "traceId": "215047c417932540410432577e1117",
+ "v": "1.0",
+ "retType": 0
+}

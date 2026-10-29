@@ -1,0 +1,19 @@
+.venv/
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+pytest-cache-files-*/
+.ruff_cache/
+.tmp/
+# 抓包文件含会话 Cookie 与 ua 加密串，不入库
+*.har
+# 研发过程文档与抓包记录只在本地私有目录，不入库
+docs/
+research/
+# 测试产物
+test-results.xml
+docs/test-results.xml
+# 本地编辑器/系统文件
+.DS_Store
+Thumbs.db

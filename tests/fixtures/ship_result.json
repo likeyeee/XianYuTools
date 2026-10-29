@@ -1,0 +1,18 @@
+{
+ "api": "mtop.taobao.idle.logistic.consign.dummy",
+ "data": {
+  "data": {
+   "orderId": 833890741254
+  },
+  "needDecryptKeys": [
+   "data.encryptedPhone"
+  ],
+  "serverTime": 1793255108885
+ },
+ "ret": [
+  "SUCCESS::调用成功"
+ ],
+ "traceId": "213e037a17932551086688835e0eb7",
+ "v": "1.0",
+ "retType": 0
+}

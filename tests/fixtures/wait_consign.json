@@ -1,0 +1,404 @@
+{
+ "api": "mtop.taobao.idle.logistic.wait.consign.order.query",
+ "data": {
+  "data": {
+   "batchConsignSummaryInfo": {
+    "batchConsignTitle": [
+     {
+      "content": "有",
+      "style": {
+       "fontSize": 14,
+       "fontWeight": 500,
+       "textColor": "#1F1F1F"
+      },
+      "type": "TEXT"
+     },
+     {
+      "content": "11笔",
+      "style": {
+       "fontSize": 14,
+       "fontWeight": 500,
+       "textColor": "#F58300"
+      },
+      "type": "TEXT"
+     },
+     {
+      "content": "待寄订单，",
+      "style": {
+       "fontSize": 14,
+       "fontWeight": 500,
+       "textColor": "#1F1F1F"
+      },
+      "type": "TEXT"
+     },
+     {
+      "content": "11笔",
+      "style": {
+       "fontSize": 14,
+       "fontWeight": 500,
+       "textColor": "#F58300"
+      },
+      "type": "TEXT"
+     },
+     {
+      "content": "可以一起寄",
+      "style": {
+       "fontSize": 14,
+       "fontWeight": 500,
+       "textColor": "#1F1F1F"
+      },
+      "type": "TEXT"
+     }
+    ],
+    "canCombineCnt": 0,
+    "canNotServiceCnt": 0,
+    "canServiceCnt": 11,
+    "combineGroupCnt": 0,
+    "idleOneHandCnt": 0,
+    "subOrderCnt": 11
+   },
+   "consignOrderInfos": [
+    {
+     "bizOrderInfoList": [
+      {
+       "auctionId": "1000832255420",
+       "auctionPictUrl": "已脱敏",
+       "auctionTitle": "测试商品标题",
+       "bizOrderId": "4502035009004022445",
+       "buyAmount": 1,
+       "buyerId": 9100071271,
+       "buyerNick": "已脱敏",
+       "canUseSendService": true,
+       "cat2Id": "201417904",
+       "gmtCreate": "2026-02-07 10:28:31",
+       "idleBizCode": "6000",
+       "idleMarketOrder": false,
+       "logisticsStatus": 1,
+       "orderValue": 90,
+       "payStatus": 2,
+       "payTime": "2026-02-07 10:28:41",
+       "sellerId": 9100118785,
+       "sellerNick": "已脱敏",
+       "status": 0
+      }
+     ],
+     "groupType": "normal",
+     "packageId": "4502035009004022445",
+     "tradeIdList": [
+      "4502035009004022445"
+     ]
+    },
+    {
+     "bizOrderInfoList": [
+      {
+       "auctionId": "1020896748751",
+       "auctionPictUrl": "已脱敏",
+       "auctionTitle": "测试商品标题",
+       "bizOrderId": "5125664739339014049",
+       "buyAmount": 1,
+       "buyerId": 9100000000000,
+       "buyerNick": "已脱敏",
+       "canUseSendService": true,
+       "cat2Id": "201417904",
+       "gmtCreate": "2026-07-25 10:54:06",
+       "idleBizCode": "6000",
+       "idleMarketOrder": false,
+       "logisticsStatus": 1,
+       "orderValue": 9,
+       "payStatus": 2,
+       "payTime": "2026-07-25 10:54:10",
+       "sellerId": 9100118785,
+       "sellerNick": "已脱敏",
+       "status": 0
+      }
+     ],
+     "groupType": "normal",
+     "packageId": "5125664739339014049",
+     "tradeIdList": [
+      "5125664739339014049"
+     ]
+    },
+    {
+     "bizOrderInfoList": [
+      {
+       "auctionId": "1020896748751",
+       "auctionPictUrl": "已脱敏",
+       "auctionTitle": "测试商品标题",
+       "bizOrderId": "5125618695311021739",
+       "buyAmount": 1,
+       "buyerId": 9100095028,
+       "buyerNick": "已脱敏",
+       "canUseSendService": true,
+       "cat2Id": "201417904",
+       "gmtCreate": "2026-07-24 15:27:22",
+       "idleBizCode": "6000",
+       "idleMarketOrder": false,
+       "logisticsStatus": 1,
+       "orderValue": 9,
+       "payStatus": 2,
+       "payTime": "2026-07-24 15:27:30",
+       "sellerId": 9100118785,
+       "sellerNick": "已脱敏",
+       "status": 0
+      }
+     ],
+     "groupType": "normal",
+     "packageId": "5125618695311021739",
+     "tradeIdList": [
+      "5125618695311021739"
+     ]
+    },
+    {
+     "bizOrderInfoList": [
+      {
+       "auctionId": "1020896748751",
+       "auctionPictUrl": "已脱敏",
+       "auctionTitle": "测试商品标题",
+       "bizOrderId": "3313921623175006264",
+       "buyAmount": 1,
+       "buyerId": 9100031676000,
+       "buyerNick": "已脱敏",
+       "canUseSendService": true,
+       "cat2Id": "201417904",
+       "gmtCreate": "2026-07-24 15:19:40",
+       "idleBizCode": "6000",
+       "idleMarketOrder": false,
+       "logisticsStatus": 1,
+       "orderValue": 9,
+       "payStatus": 2,
+       "payTime": "2026-07-24 15:19:47",
+       "sellerId": 9100118785,
+       "sellerNick": "已脱敏",
+       "status": 0
+      }
+     ],
+     "groupType": "normal",
+     "packageId": "3313921623175006264",
+     "tradeIdList": [
+      "3313921623175006264"
+     ]
+    },
+    {
+     "bizOrderInfoList": [
+      {
+       "auctionId": "1000832255420",
+       "auctionPictUrl": "已脱敏",
+       "auctionTitle": "测试商品标题",
+       "bizOrderId": "3223349617352460159",
+       "buyAmount": 1,
+       "buyerId": 9100023757000,
+       "buyerNick": "已脱敏",
+       "canUseSendService": true,
+       "cat2Id": "201417904",
+       "gmtCreate": "2026-02-02 14:27:20",
+       "idleBizCode": "6000",
+       "idleMarketOrder": false,
+       "logisticsStatus": 1,
+       "orderValue": 90,
+       "payStatus": 2,
+       "payTime": "2026-02-02 14:28:52",
+       "sellerId": 9100118785,
+       "sellerNick": "已脱敏",
+       "status": 0
+      }
+     ],
+     "groupType": "normal",
+     "packageId": "3223349617352460159",
+     "tradeIdList": [
+      "3223349617352460159"
+     ]
+    },
+    {
+     "bizOrderInfoList": [
+      {
+       "auctionId": "1000832255420",
+       "auctionPictUrl": "已脱敏",
+       "auctionTitle": "测试商品标题",
+       "bizOrderId": "4502019494025002543",
+       "buyAmount": 1,
+       "buyerId": 9100015838000,
+       "buyerNick": "已脱敏",
+       "canUseSendService": true,
+       "cat2Id": "201417904",
+       "gmtCreate": "2026-02-05 19:02:14",
+       "idleBizCode": "6000",
+       "idleMarketOrder": false,
+       "logisticsStatus": 1,
+       "orderValue": 90,
+       "payStatus": 2,
+       "payTime": "2026-02-05 19:02:17",
+       "sellerId": 9100118785,
+       "sellerNick": "已脱敏",
+       "status": 0
+      }
+     ],
+     "groupType": "normal",
+     "packageId": "4502019494025002543",
+     "tradeIdList": [
+      "4502019494025002543"
+     ]
+    },
+    {
+     "bizOrderInfoList": [
+      {
+       "auctionId": "1020896748751",
+       "auctionPictUrl": "已脱敏",
+       "auctionTitle": "测试商品标题",
+       "bizOrderId": "3314367805558006296",
+       "buyAmount": 1,
+       "buyerId": 9100007919000,
+       "buyerNick": "已脱敏",
+       "canUseSendService": true,
+       "cat2Id": "201417904",
+       "gmtCreate": "2026-07-24 18:11:18",
+       "idleBizCode": "6000",
+       "idleMarketOrder": false,
+       "logisticsStatus": 1,
+       "orderValue": 9,
+       "payStatus": 2,
+       "payTime": "2026-07-24 18:11:24",
+       "sellerId": 9100118785,
+       "sellerNick": "已脱敏",
+       "status": 0
+      }
+     ],
+     "groupType": "normal",
+     "packageId": "3314367805558006296",
+     "tradeIdList": [
+      "3314367805558006296"
+     ]
+    },
+    {
+     "bizOrderInfoList": [
+      {
+       "auctionId": "1020896748751",
+       "auctionPictUrl": "已脱敏",
+       "auctionTitle": "测试商品标题",
+       "bizOrderId": "3313988258454016058",
+       "buyAmount": 1,
+       "buyerId": 9100126704,
+       "buyerNick": "已脱敏",
+       "canUseSendService": true,
+       "cat2Id": "201417904",
+       "gmtCreate": "2026-07-25 13:12:18",
+       "idleBizCode": "6000",
+       "idleMarketOrder": false,
+       "logisticsStatus": 1,
+       "orderValue": 9,
+       "payStatus": 2,
+       "payTime": "2026-07-25 13:12:28",
+       "sellerId": 9100118785,
+       "sellerNick": "已脱敏",
+       "status": 0
+      }
+     ],
+     "groupType": "normal",
+     "packageId": "3313988258454016058",
+     "tradeIdList": [
+      "3313988258454016058"
+     ]
+    },
+    {
+     "bizOrderInfoList": [
+      {
+       "auctionId": "1020896748751",
+       "auctionPictUrl": "已脱敏",
+       "auctionTitle": "测试商品标题",
+       "bizOrderId": "5125804131348022620",
+       "buyAmount": 1,
+       "buyerId": 9100079190,
+       "buyerNick": "已脱敏",
+       "canUseSendService": true,
+       "cat2Id": "201417904",
+       "gmtCreate": "2026-07-27 11:21:02",
+       "idleBizCode": "6000",
+       "idleMarketOrder": false,
+       "isEntry": true,
+       "logisticsStatus": 1,
+       "orderValue": 9,
+       "payStatus": 2,
+       "payTime": "2026-07-27 11:21:08",
+       "sellerId": 9100118785,
+       "sellerNick": "已脱敏",
+       "status": 0
+      }
+     ],
+     "groupType": "normal",
+     "packageId": "5125804131348022620",
+     "tradeIdList": [
+      "5125804131348022620"
+     ]
+    },
+    {
+     "bizOrderInfoList": [
+      {
+       "auctionId": "1053480400654",
+       "auctionPictUrl": "已脱敏",
+       "auctionTitle": "测试商品标题",
+       "bizOrderId": "3303506930049010578",
+       "buyAmount": 1,
+       "buyerId": 9100055433000,
+       "buyerNick": "已脱敏",
+       "canUseSendService": true,
+       "cat2Id": "126868076",
+       "gmtCreate": "2026-05-24 09:51:45",
+       "idleBizCode": "6",
+       "idleMarketOrder": false,
+       "logisticsStatus": 1,
+       "orderValue": 100,
+       "payStatus": 2,
+       "payTime": "2026-05-24 09:51:52",
+       "sellerId": 9100118785,
+       "sellerNick": "已脱敏",
+       "status": 0
+      }
+     ],
+     "groupType": "normal",
+     "packageId": "3303506930049010578",
+     "tradeIdList": [
+      "3303506930049010578"
+     ]
+    },
+    {
+     "bizOrderInfoList": [
+      {
+       "auctionId": "1020896748751",
+       "auctionPictUrl": "已脱敏",
+       "auctionTitle": "测试商品标题",
+       "bizOrderId": "3314100434130088974",
+       "buyAmount": 1,
+       "buyerId": 9100047514000,
+       "buyerNick": "已脱敏",
+       "canUseSendService": true,
+       "cat2Id": "201417904",
+       "gmtCreate": "2026-07-27 07:01:39",
+       "idleBizCode": "6000",
+       "idleMarketOrder": false,
+       "logisticsStatus": 1,
+       "orderValue": 9,
+       "payStatus": 2,
+       "payTime": "2026-07-27 07:01:44",
+       "sellerId": 9100118785,
+       "sellerNick": "已脱敏",
+       "status": 0
+      }
+     ],
+     "groupType": "normal",
+     "packageId": "3314100434130088974",
+     "tradeIdList": [
+      "3314100434130088974"
+     ]
+    }
+   ]
+  },
+  "needDecryptKeys": [
+   "data.encryptedPhone"
+  ],
+  "serverTime": 1793254912186
+ },
+ "ret": [
+  "SUCCESS::调用成功"
+ ],
+ "traceId": "213e01ee17932549117306618e0eab",
+ "v": "1.0"
+}

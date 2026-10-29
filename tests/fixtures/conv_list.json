@@ -1,0 +1,205 @@
+{
+ "headers": {
+  "dt": "j",
+  "mid": "1793255581793 0",
+  "sid": "212ce4af6ae2e88f6da935b41b5d8f70b393a751c795"
+ },
+ "code": 200,
+ "body": {
+  "nextCursor": 1788837880660,
+  "userConvs": [
+   {
+    "singleChatUserConversation": {
+     "visible": 1,
+     "modifyTime": 1793255568318,
+     "redPoint": 1,
+     "joinTime": 1792225234000,
+     "lastMessage": {
+      "readStatus": 0,
+      "userExtension": {
+       "needPush": "true"
+      },
+      "recallFeature": {
+       "showRecallStatusSetting": 0
+      },
+      "message": {
+       "extension": {
+        "reminderContent": "已脱敏",
+        "_appVersion": "7.28.30",
+        "senderUserId": "9100110866",
+        "umid": "已脱敏",
+        "utdid": "已脱敏",
+        "extJson": "{\"quickReply\":\"1\",\"utdid\":\"YoXlzd/dxCwDAFD6kmgbhYlc\",\"messageId\":\"c046953952d94b6795c448ea17acb50a\",\"umidToken\":\"ByYBIitLPG9C/BKhgQQ2jRrIPZhKfRHJ\",\"tag\":\"u\"}",
+        "umidToken": "已脱敏",
+        "_platform": "ios",
+        "reminderNotice": "已脱敏",
+        "senderUserType": "0",
+        "detailNotice": "已脱敏",
+        "port": "25037",
+        "clientIp": "已脱敏",
+        "sessionType": "1",
+        "reminderUrl": "已脱敏",
+        "bizTag": "{\"sourceId\":\"S:1\",\"messageId\":\"c046953952d94b6795c448ea17acb50a\"}",
+        "reminderTitle": "已脱敏"
+       },
+       "messageId": "4379287966616.PNM",
+       "unreadCount": 1,
+       "msgReadStatusSetting": 1,
+       "createAt": 1793255567914,
+       "content": {
+        "custom": {
+         "summary": "你好，还在吗？",
+         "data": "eyJjb250ZW50VHlwZSI6IDEsICJ0ZXh0IjogeyJ0ZXh0IjogIuS9oOWlve+8jOi/mOWcqOWQl++8nyJ9fQ==",
+         "title": "",
+         "type": 1,
+         "degrade": ""
+        },
+        "contentType": 101
+       },
+       "mtags": {},
+       "conversationType": 1,
+       "displayStyle": 0,
+       "redPointPolicy": 0,
+       "recordStatus": 1,
+       "searchableContent": {
+        "summary": ""
+       },
+       "sender": {
+        "uid": "9100110866@goofish",
+        "tag": 0
+       },
+       "receivers": [],
+       "receiverCount": 2,
+       "cid": "68032467466@goofish"
+      },
+      "msgStatus": 1
+     },
+     "singleChatConversation": {
+      "extension": {
+       "itemId": "1078451808506",
+       "itemFeatures": "{\"idle_cat_leaf\":\"202156031\"}",
+       "VULCAN_CREATE_TIME": "1792225234295",
+       "itemSellerId": "9100110866",
+       "extUserType": "0",
+       "itemTitle": "测试商品标题",
+       "orderId": "3316529354005041951",
+       "extUserId": "9100118785",
+       "ownerUserId": "9100110866",
+       "itemMainPic": "已脱敏",
+       "ownerUserType": "0"
+      },
+      "pairFirst": "9100110866@goofish",
+      "bizType": "1",
+      "msgReadStatusSetting": 1,
+      "createAt": 1792225234000,
+      "cid": "68032467466@goofish",
+      "pairSecond": "9100118785@goofish"
+     },
+     "topRank": 0,
+     "muteNotification": 0,
+     "user_extension": {
+      "redReminderStyle": "已脱敏",
+      "redReminder": "已脱敏"
+     }
+    },
+    "type": 1
+   },
+   {
+    "singleChatUserConversation": {
+     "visible": 1,
+     "modifyTime": 1793255137752,
+     "redPoint": 0,
+     "joinTime": 1785122462000,
+     "lastMessage": {
+      "readStatus": 2,
+      "userExtension": {
+       "needPush": "false"
+      },
+      "recallFeature": {
+       "showRecallStatusSetting": 0
+      },
+      "message": {
+       "extension": {
+        "reminderContent": "已脱敏",
+        "receiver": "已脱敏",
+        "senderUserId": "9100079190",
+        "extJson": "{\"msgArgs\":{\"task_id\":\"9UsGlDzVTvfD\",\"source\":\"im\",\"msg_id\":\"0c8e19ec1beb40179149ea36b4fcd71b\"},\"msgArg1\":\"MsgTips\",\"messageId\":\"0c8e19ec1beb40179149ea36b4fcd71b\",\"contentType\":\"14\"}",
+        "closePushReceiver": "已脱敏",
+        "reminderNotice": "已脱敏",
+        "senderUserType": "0",
+        "closeUnreadNumber": "true",
+        "detailNotice": "已脱敏",
+        "redReminderStyle": "已脱敏",
+        "sessionType": "1",
+        "reminderUrl": "已脱敏",
+        "bizTag": "{\"sourceId\":\"C2C:9UsGlDzVTvfD\",\"taskName\":\"已发货_卖家\",\"materialId\":\"9UsGlDzVTvfD\",\"taskId\":\"9UsGlDzVTvfD\"}",
+        "reminderTitle": "已脱敏",
+        "redReminder": "已脱敏",
+        "updateHead": "已脱敏"
+       },
+       "messageId": "4370622714945.PNM",
+       "unreadCount": 0,
+       "msgReadStatusSetting": 1,
+       "createAt": 1793255109460,
+       "content": {
+        "custom": {
+         "summary": "你好，还在吗？",
+         "data": "eyJjb250ZW50VHlwZSI6IDEsICJ0ZXh0IjogeyJ0ZXh0IjogIuS9oOWlve+8jOi/mOWcqOWQl++8nyJ9fQ==",
+         "title": "",
+         "type": 14,
+         "degrade": ""
+        },
+        "contentType": 101
+       },
+       "mtags": {},
+       "conversationType": 1,
+       "displayStyle": 0,
+       "redPointPolicy": 0,
+       "recordStatus": 1,
+       "searchableContent": {
+        "summary": ""
+       },
+       "sender": {
+        "uid": "9100079190@goofish",
+        "tag": 0
+       },
+       "receivers": [],
+       "receiverCount": 1,
+       "cid": "64782227283@goofish"
+      },
+      "msgStatus": 1
+     },
+     "singleChatConversation": {
+      "extension": {
+       "itemId": "1020896748751",
+       "itemFeatures": "{\"idle_cat_leaf\":\"201409706\"}",
+       "VULCAN_CREATE_TIME": "1785122462889",
+       "itemSellerId": "9100118785",
+       "extUserType": "0",
+       "itemTitle": "测试商品标题",
+       "orderId": "5125804131348022620",
+       "extUserId": "9100079190",
+       "ownerUserId": "9100118785",
+       "itemMainPic": "已脱敏",
+       "ownerUserType": "0"
+      },
+      "pairFirst": "9100118785@goofish",
+      "bizType": "1",
+      "msgReadStatusSetting": 1,
+      "createAt": 1785122462000,
+      "cid": "64782227283@goofish",
+      "pairSecond": "9100079190@goofish"
+     },
+     "topRank": 0,
+     "muteNotification": 0,
+     "user_extension": {
+      "redReminderStyle": "已脱敏",
+      "redReminder": "已脱敏"
+     }
+    },
+    "type": 1
+   }
+  ],
+  "hasMore": 1
+ }
+}

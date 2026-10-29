@@ -1,0 +1,166 @@
+{
+ "api": "mtop.idle.web.trade.rate.list",
+ "data": {
+  "cardList": [
+   {
+    "cardData": {
+     "appendCount": 0,
+     "bizCode": "order",
+     "feedback": "已脱敏",
+     "gmtCreate": "2026-10-29 14:31:43",
+     "gmtCreateStr": "2026-10-29",
+     "hasPraised": false,
+     "highQuality": false,
+     "ipAddress": "已脱敏",
+     "itemId": 0,
+     "itemPrice": 0,
+     "pictCdnUrlList": [],
+     "praiseCount": 0,
+     "rate": 1,
+     "rateId": 41207725507,
+     "rateStatus": 0,
+     "rateTagList": [
+      {
+       "bgColorList": [
+        352279296,
+        352279296
+       ],
+       "borderColor": 0,
+       "text": "买家·我的评价",
+       "textColor": 4294925056
+      }
+     ],
+     "raterHeadImg": "已脱敏",
+     "raterUserNick": "已脱敏",
+     "serviceRate": false,
+     "timeDesc": "2分钟前",
+     "tradeInfo": {
+      "itemSkuInfo": [
+       {
+        "skuKey": "积分",
+        "skuValue": "100"
+       }
+      ]
+     }
+    },
+    "cardType": 1040
+   },
+   {
+    "cardData": {
+     "appendCount": 0,
+     "bizCode": "order",
+     "feedback": "已脱敏",
+     "gmtCreate": "2026-10-29 14:28:19",
+     "gmtCreateStr": "2026-10-29",
+     "hasPraised": false,
+     "highQuality": false,
+     "idleCustomWordContents": [
+      {
+       "content": "效率超高",
+       "idleRateEnum": "GOOD",
+       "type": "4"
+      }
+     ],
+     "ipAddress": "已脱敏",
+     "itemId": 0,
+     "itemPrice": 0,
+     "pictCdnUrlList": [],
+     "praiseCount": 0,
+     "rate": 1,
+     "rateId": 41207725299,
+     "rateStatus": 0,
+     "rateTagList": [
+      {
+       "bgColorList": [
+        352279296,
+        352279296
+       ],
+       "borderColor": 0,
+       "text": "买家",
+       "textColor": 4294925056
+      }
+     ],
+     "raterHeadImg": "已脱敏",
+     "raterUserNick": "已脱敏",
+     "serviceRate": false,
+     "timeDesc": "5分钟前",
+     "tradeInfo": {
+      "itemSkuInfo": [
+       {
+        "skuKey": "积分",
+        "skuValue": "500"
+       }
+      ]
+     }
+    },
+    "cardType": 1040
+   },
+   {
+    "cardData": {
+     "appendCount": 0,
+     "bizCode": "order",
+     "feedback": "已脱敏",
+     "gmtCreate": "2026-10-24 21:34:34",
+     "gmtCreateStr": "2026-10-24",
+     "hasPraised": false,
+     "highQuality": false,
+     "ipAddress": "已脱敏",
+     "itemId": 0,
+     "itemPrice": 0,
+     "pictCdnUrlList": [],
+     "praiseCount": 0,
+     "rate": 1,
+     "rateId": 41123871034,
+     "rateStatus": 0,
+     "rateTagList": [
+      {
+       "bgColorList": [
+        352279296,
+        352279296
+       ],
+       "borderColor": 0,
+       "text": "买家",
+       "textColor": 4294925056
+      }
+     ],
+     "raterHeadImg": "已脱敏",
+     "raterUserNick": "已脱敏",
+     "serviceRate": false,
+     "timeDesc": "4天前",
+     "tradeInfo": {
+      "itemSkuInfo": [
+       {
+        "skuKey": "积分",
+        "skuValue": "100"
+       }
+      ]
+     }
+    },
+    "cardType": 1040
+   }
+  ],
+  "nextPage": true,
+  "rateTabDOList": [
+   {
+    "fixed": true,
+    "tabAttitude": 0,
+    "tabName": "全部",
+    "tabType": 0
+   },
+   {
+    "fixed": true,
+    "tabAttitude": 0,
+    "tabCount": 82,
+    "tabName": "好评",
+    "tabType": 1
+   }
+  ],
+  "totalCount": 149
+ },
+ "ret": [
+  "SUCCESS::调用成功"
+ ],
+ "traceId": "213e077317932556301925136e11c3",
+ "v": "1.0",
+ "retType": 0
+}

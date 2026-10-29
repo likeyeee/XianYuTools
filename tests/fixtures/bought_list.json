@@ -1,0 +1,544 @@
+{
+ "api": "mtop.idle.web.trade.bought.list",
+ "data": {
+  "items": [
+   {
+    "commonData": {
+     "blockType": "NONE",
+     "conformRisk": "NONE",
+     "itemId": 1089403822154,
+     "orderDetailUrl": "已脱敏",
+     "orderId": 3316532919162032600,
+     "orderIdStr": "3316532919162032769",
+     "peerUserId": 9100087109,
+     "seller": false,
+     "tradeStatusEnum": "buyer_to_confirm",
+     "utArgs": {
+      "globalBizCode": null,
+      "xGlobalBizCode": null,
+      "_F_idle_pd": "c2c",
+      "idleBizCode": "6"
+     }
+    },
+    "content": {
+     "data": {
+      "detailInfo": {
+       "auctionPic": "已脱敏",
+       "auctionTitle": "测试商品标题",
+       "fromWxMiniProgram": false,
+       "orderTags": [],
+       "skuInfo": "款式:天卡"
+      },
+      "priceInfo": {
+       "auctionPriceDesc": "实付款",
+       "buyAmount": 1,
+       "price": "6.60"
+      }
+     },
+     "render": "common"
+    },
+    "head": {
+     "data": {
+      "createTime": "2026-10-27 13:56:31",
+      "statusViewMsg": "等待见面交易",
+      "userInfo": {
+       "jumpUrl": "已脱敏",
+       "redFlowerIcon": false,
+       "tags": [
+        {
+         "imageUrl": "已脱敏"
+        }
+       ],
+       "userIcon": "已脱敏",
+       "userId": "9100087109",
+       "userNick": "已脱敏"
+      }
+     },
+     "render": "common"
+    },
+    "tail": {
+     "data": {
+      "btnList": [
+       {
+        "buttonDisable": false,
+        "clickEvent": {
+         "data": {
+          "code": "BUYER_CONFIRM",
+          "params": {
+           "orderId": "3316532919162032769"
+          }
+         },
+         "type": "actionCode",
+         "utParam": {
+          "arg1": "Confirm"
+         }
+        },
+        "expanded": true,
+        "ext": {},
+        "name": "确认收货",
+        "style": "yellow",
+        "tradeAction": "BUYER_CONFIRM"
+       },
+       {
+        "buttonDisable": false,
+        "clickEvent": {
+         "data": {
+          "params": {
+           "supportPCTrade": "true"
+          },
+          "url": "已脱敏"
+         },
+         "type": "openPage",
+         "utParam": {
+          "arg1": "rePurchase"
+         }
+        },
+        "expanded": true,
+        "ext": {},
+        "name": "再次购买",
+        "style": "grey",
+        "tradeAction": "RE_PURCHASE"
+       },
+       {
+        "buttonDisable": false,
+        "clickEvent": {
+         "data": {
+          "url": "已脱敏"
+         },
+         "type": "openPage",
+         "utParam": {
+          "arg1": "RequestRefund"
+         }
+        },
+        "expanded": false,
+        "ext": {},
+        "name": "我要退款",
+        "style": "grey",
+        "tradeAction": "REFUND"
+       },
+       {
+        "buttonDisable": false,
+        "clickEvent": {
+         "data": {
+          "url": "已脱敏"
+         },
+         "type": "openPage",
+         "utParam": {
+          "arg1": ""
+         }
+        },
+        "expanded": false,
+        "ext": {},
+        "name": "宝贝快照",
+        "style": "grey",
+        "tradeAction": "ITEM_DETAIL"
+       },
+       {
+        "clickEvent": {
+         "data": {
+          "code": "CHAT"
+         },
+         "type": "actionCode",
+         "utParam": {
+          "arg1": "chat"
+         }
+        },
+        "expanded": true,
+        "name": "联系卖家",
+        "tradeAction": "CONTACT_BUYER"
+       },
+       {
+        "clickEvent": {
+         "data": {
+          "apiName": "已脱敏",
+          "apiVersion": "1.0",
+          "code": "SEND_FLOWER",
+          "params": {
+           "orderId": "3316532919162032769"
+          },
+          "refresh": "true",
+          "successToast": {
+           "msg": "发送成功"
+          },
+          "url": "已脱敏"
+         },
+         "type": "actionCode",
+         "utParam": {
+          "arg1": "sendFlower"
+         }
+        },
+        "expanded": true,
+        "icon": "已脱敏",
+        "name": "送小红花",
+        "tradeAction": "SEND_FLOWER"
+       }
+      ]
+     },
+     "render": "common"
+    }
+   },
+   {
+    "commonData": {
+     "blockType": "NONE",
+     "conformRisk": "NONE",
+     "itemId": 1092121805799,
+     "orderDetailUrl": "已脱敏",
+     "orderId": 3316531947154023400,
+     "orderIdStr": "3316531947154023587",
+     "peerUserId": 910010294,
+     "seller": false,
+     "tradeStatusEnum": "buyer_to_confirm",
+     "utArgs": {
+      "globalBizCode": null,
+      "xGlobalBizCode": null,
+      "_F_idle_pd": "c2c",
+      "idleBizCode": "6"
+     }
+    },
+    "content": {
+     "data": {
+      "detailInfo": {
+       "auctionPic": "已脱敏",
+       "auctionTitle": "测试商品标题",
+       "fromWxMiniProgram": false,
+       "orderTags": []
+      },
+      "priceInfo": {
+       "auctionPriceDesc": "实付款",
+       "buyAmount": 1,
+       "price": "1.90"
+      }
+     },
+     "render": "common"
+    },
+    "head": {
+     "data": {
+      "createTime": "2026-10-27 09:26:56",
+      "statusViewMsg": "等待见面交易",
+      "userInfo": {
+       "jumpUrl": "已脱敏",
+       "redFlowerIcon": false,
+       "tags": [],
+       "userIcon": "已脱敏",
+       "userId": "910010294",
+       "userNick": "已脱敏"
+      }
+     },
+     "render": "common"
+    },
+    "tail": {
+     "data": {
+      "btnList": [
+       {
+        "buttonDisable": false,
+        "clickEvent": {
+         "data": {
+          "code": "BUYER_CONFIRM",
+          "params": {
+           "orderId": "3316531947154023587"
+          }
+         },
+         "type": "actionCode",
+         "utParam": {
+          "arg1": "Confirm"
+         }
+        },
+        "expanded": true,
+        "ext": {},
+        "name": "确认收货",
+        "style": "yellow",
+        "tradeAction": "BUYER_CONFIRM"
+       },
+       {
+        "buttonDisable": false,
+        "clickEvent": {
+         "data": {
+          "params": {
+           "supportPCTrade": "true"
+          },
+          "url": "已脱敏"
+         },
+         "type": "openPage",
+         "utParam": {
+          "arg1": "rePurchase"
+         }
+        },
+        "expanded": true,
+        "ext": {},
+        "name": "再次购买",
+        "style": "grey",
+        "tradeAction": "RE_PURCHASE"
+       },
+       {
+        "buttonDisable": false,
+        "clickEvent": {
+         "data": {
+          "url": "已脱敏"
+         },
+         "type": "openPage",
+         "utParam": {
+          "arg1": "RequestRefund"
+         }
+        },
+        "expanded": false,
+        "ext": {},
+        "name": "我要退款",
+        "style": "grey",
+        "tradeAction": "REFUND"
+       },
+       {
+        "buttonDisable": false,
+        "clickEvent": {
+         "data": {
+          "url": "已脱敏"
+         },
+         "type": "openPage",
+         "utParam": {
+          "arg1": ""
+         }
+        },
+        "expanded": false,
+        "ext": {},
+        "name": "宝贝快照",
+        "style": "grey",
+        "tradeAction": "ITEM_DETAIL"
+       },
+       {
+        "clickEvent": {
+         "data": {
+          "code": "CHAT"
+         },
+         "type": "actionCode",
+         "utParam": {
+          "arg1": "chat"
+         }
+        },
+        "expanded": true,
+        "name": "联系卖家",
+        "tradeAction": "CONTACT_BUYER"
+       },
+       {
+        "clickEvent": {
+         "data": {
+          "apiName": "已脱敏",
+          "apiVersion": "1.0",
+          "code": "SEND_FLOWER",
+          "params": {
+           "orderId": "3316531947154023587"
+          },
+          "refresh": "true",
+          "successToast": {
+           "msg": "发送成功"
+          },
+          "url": "已脱敏"
+         },
+         "type": "actionCode",
+         "utParam": {
+          "arg1": "sendFlower"
+         }
+        },
+        "expanded": true,
+        "icon": "已脱敏",
+        "name": "送小红花",
+        "tradeAction": "SEND_FLOWER"
+       }
+      ]
+     },
+     "render": "common"
+    }
+   },
+   {
+    "commonData": {
+     "blockType": "NONE",
+     "conformRisk": "NONE",
+     "itemId": 1092984250845,
+     "orderDetailUrl": "已脱敏",
+     "orderId": 3316978417127023600,
+     "orderIdStr": "3316978417127023587",
+     "peerUserId": 9100063352000,
+     "seller": false,
+     "tradeStatusEnum": "trade_success",
+     "utArgs": {
+      "globalBizCode": null,
+      "xGlobalBizCode": null,
+      "_F_idle_pd": "c2c",
+      "idleBizCode": "6"
+     }
+    },
+    "content": {
+     "data": {
+      "detailInfo": {
+       "auctionPic": "已脱敏",
+       "auctionTitle": "测试商品标题",
+       "fromWxMiniProgram": false,
+       "orderTags": [],
+       "skuInfo": "款式:天卡"
+      },
+      "priceInfo": {
+       "auctionPriceDesc": "实付款",
+       "buyAmount": 1,
+       "price": "20.00"
+      }
+     },
+     "render": "common"
+    },
+    "head": {
+     "data": {
+      "createTime": "2026-10-26 22:11:59",
+      "statusViewMsg": "交易成功",
+      "userInfo": {
+       "jumpUrl": "已脱敏",
+       "redFlowerIcon": true,
+       "tags": [
+        {
+         "imageUrl": "已脱敏"
+        }
+       ],
+       "userIcon": "已脱敏",
+       "userId": "9100063352000",
+       "userNick": "已脱敏"
+      }
+     },
+     "render": "common"
+    },
+    "tail": {
+     "data": {
+      "btnList": [
+       {
+        "buttonDisable": false,
+        "clickEvent": {
+         "data": {
+          "params": {
+           "supportPCTrade": "true"
+          },
+          "url": "已脱敏"
+         },
+         "type": "openPage",
+         "utParam": {
+          "arg1": "rePurchase"
+         }
+        },
+        "expanded": true,
+        "ext": {},
+        "name": "再次购买",
+        "style": "yellow",
+        "tradeAction": "RE_PURCHASE"
+       },
+       {
+        "buttonDisable": false,
+        "clickEvent": {
+         "data": {
+          "url": "已脱敏"
+         },
+         "type": "openPage",
+         "utParam": {
+          "arg1": "ViewRate"
+         }
+        },
+        "expanded": true,
+        "ext": {},
+        "name": "查看评价",
+        "style": "grey",
+        "tradeAction": "VIEW_RATE"
+       },
+       {
+        "buttonDisable": false,
+        "clickEvent": {
+         "data": {
+          "code": "VIEW_CASH",
+          "url": "已脱敏"
+         },
+         "type": "openPage",
+         "utParam": {
+          "arg1": "CheckMoney"
+         }
+        },
+        "expanded": false,
+        "ext": {},
+        "name": "查看钱款",
+        "style": "grey",
+        "tradeAction": "VIEW_CASH"
+       },
+       {
+        "buttonDisable": false,
+        "clickEvent": {
+         "data": {
+          "url": "已脱敏"
+         },
+         "type": "openPage",
+         "utParam": {
+          "arg1": ""
+         }
+        },
+        "expanded": false,
+        "ext": {},
+        "name": "宝贝快照",
+        "style": "grey",
+        "tradeAction": "ITEM_DETAIL"
+       },
+       {
+        "buttonDisable": false,
+        "clickEvent": {
+         "data": {
+          "url": "已脱敏"
+         },
+         "type": "openPage",
+         "utParam": {
+          "arg1": "complaintSeller"
+         }
+        },
+        "expanded": false,
+        "ext": {},
+        "name": "投诉卖家",
+        "style": "grey",
+        "tradeAction": "COMPLAINT_SELLER"
+       },
+       {
+        "buttonDisable": false,
+        "clickEvent": {
+         "data": {
+          "code": "DELETE_ORDER"
+         },
+         "type": "actionCode",
+         "utParam": {
+          "arg1": "DeleteOrder"
+         }
+        },
+        "expanded": false,
+        "ext": {},
+        "name": "删除订单",
+        "style": "grey",
+        "tradeAction": "DELETE_ORDER"
+       },
+       {
+        "clickEvent": {
+         "data": {
+          "code": "CHAT"
+         },
+         "type": "actionCode",
+         "utParam": {
+          "arg1": "chat"
+         }
+        },
+        "expanded": true,
+        "name": "联系卖家",
+        "tradeAction": "CONTACT_BUYER"
+       }
+      ]
+     },
+     "render": "common"
+    }
+   }
+  ],
+  "lastEndRow": 0,
+  "nextPage": true,
+  "resultExt": {},
+  "totalCount": 0
+ },
+ "ret": [
+  "SUCCESS::调用成功"
+ ],
+ "traceId": "215047c417932540413322620e1117",
+ "v": "1.0",
+ "retType": 0
+}

@@ -1,0 +1,311 @@
+{
+ "api": "mtop.idle.web.trade.order.detail",
+ "data": {
+  "appBarVO": {
+   "buttonList": [
+    {
+     "arg1": "MessageTab",
+     "icon": "已脱敏",
+     "name": "消息",
+     "type": "MESSAGE",
+     "url": "已脱敏"
+    },
+    {
+     "arg1": "XiaoMi",
+     "icon": "已脱敏",
+     "name": "帮助与客服",
+     "type": "XIAO_MI",
+     "url": "已脱敏"
+    }
+   ],
+   "xiaomiUrl": "已脱敏"
+  },
+  "bottomBarVO": {
+   "buttonList": [
+    {
+     "buttonDisable": "false",
+     "clickEvent": {
+      "data": {
+       "url": "已脱敏"
+      },
+      "type": "openPage",
+      "utParam": {
+       "arg1": "Rate"
+      }
+     },
+     "expanded": "false",
+     "ext": {},
+     "name": "去评价",
+     "style": "yellow",
+     "tradeAction": "RATE"
+    },
+    {
+     "buttonDisable": "false",
+     "clickEvent": {
+      "data": {
+       "url": "已脱敏"
+      },
+      "type": "openPage",
+      "utParam": {
+       "arg1": "CheckMoney"
+      }
+     },
+     "expanded": "false",
+     "ext": {},
+     "name": "查看钱款",
+     "style": "grey",
+     "tradeAction": "VIEW_CASH"
+    },
+    {
+     "buttonDisable": "false",
+     "clickEvent": {
+      "data": {
+       "code": "DELETE_ORDER"
+      },
+      "type": "actionCode",
+      "utParam": {
+       "arg1": "DeleteOrder"
+      }
+     },
+     "expanded": "false",
+     "ext": {},
+     "name": "删除订单",
+     "style": "grey",
+     "tradeAction": "DELETE_ORDER"
+    }
+   ],
+   "deliveryVersion": "1"
+  },
+  "commonInfo": {
+   "createTime": "2026-09-05 18:06:14",
+   "orderDetailUrl": "已脱敏"
+  },
+  "components": [
+   {
+    "data": {
+     "orderStatusInfo": {
+      "descRichText": [],
+      "rightGif": {
+       "cycles": "1",
+       "iconUrl": "已脱敏"
+      },
+      "rightImageUrl": "已脱敏",
+      "title": "交易成功"
+     },
+     "orderStatusNodeList": [
+      {
+       "completed": "true",
+       "time": "2026-09-05 18:06:14",
+       "title": "已拍下"
+      },
+      {
+       "completed": "true",
+       "time": "2026-09-05 18:06:22",
+       "title": "已付款"
+      },
+      {
+       "completed": "true",
+       "time": "2026-10-12 16:54:24",
+       "title": "已发货"
+      },
+      {
+       "completed": "true",
+       "time": "2026-10-22 16:54:32",
+       "title": "交易成功"
+      },
+      {
+       "completed": "false",
+       "title": "待评价"
+      }
+     ]
+    },
+    "render": "orderStatusVO"
+   },
+   {
+    "data": {
+     "descRichText": [
+      {
+       "text": "请在",
+       "textColor": "0xFFA3A3A3"
+      },
+      {
+       "text": "23",
+       "textColor": "0xFFF58300"
+      },
+      {
+       "text": "天",
+       "textColor": "0xFFA3A3A3"
+      },
+      {
+       "text": "2",
+       "textColor": "0xFFF58300"
+      },
+      {
+       "text": "时",
+       "textColor": "0xFFA3A3A3"
+      },
+      {
+       "text": "34",
+       "textColor": "0xFFF58300"
+      },
+      {
+       "text": "分内完成评价",
+       "textColor": "0xFFA3A3A3"
+      }
+     ],
+     "jumpUrl": "已脱敏",
+     "title": "快给对方一个评价吧~",
+     "titleIconUrl": "已脱敏"
+    },
+    "render": "userGuideVO"
+   },
+   {
+    "data": {
+     "extInfoList": [],
+     "itemInfo": {
+      "buyAmount": "1",
+      "disableJump": "false",
+      "itemMainPictCdnUrl": "已脱敏",
+      "jumpUrl": "已脱敏",
+      "orderTagList": [],
+      "price": "0.99",
+      "title": "8.13最新公益内核林羽（24小时自动发货）"
+     },
+     "orderInfoList": [
+      {
+       "copyable": "true",
+       "expanded": "true",
+       "needOutShow": "true",
+       "title": "订单编号",
+       "value": "3316400474147019790"
+      },
+      {
+       "clickEvent": {
+        "data": {
+         "url": "已脱敏"
+        },
+        "type": "openPage",
+        "utParam": {
+         "arg1": "OrderSnap"
+        }
+       },
+       "expanded": "false",
+       "title": "交易快照",
+       "value": "发生交易争议时，可作为判断依据"
+      },
+      {
+       "copyable": "true",
+       "expanded": "false",
+       "title": "支付宝交易号",
+       "value": "2026090523001179601448407501"
+      },
+      {
+       "expanded": "false",
+       "iconUrls": [],
+       "title": "买家昵称",
+       "value": "择物安行"
+      },
+      {
+       "expanded": "false",
+       "title": "下单时间",
+       "value": "2026-09-05 18:06:14"
+      },
+      {
+       "expanded": "false",
+       "title": "付款时间",
+       "value": "2026-09-05 18:06:22"
+      },
+      {
+       "expanded": "false",
+       "title": "发货时间",
+       "value": "2026-10-12 16:54:24"
+      },
+      {
+       "expanded": "false",
+       "title": "成交时间",
+       "value": "2026-10-22 16:54:32"
+      }
+     ],
+     "priceInfo": {
+      "amount": {
+       "descRichText": [
+        {
+         "fontSize": "12",
+         "text": "（已到达您的支付宝",
+         "textColor": "0xFFA3A3A3"
+        },
+        {
+         "fontSize": "12",
+         "jumpUrl": "已脱敏",
+         "text": "313***com",
+         "textColor": "0xFF0DAEFF"
+        },
+        {
+         "fontSize": "12",
+         "text": ")",
+         "textColor": "0xFFA3A3A3"
+        }
+       ],
+       "expanded": "false",
+       "title": "成交价",
+       "value": "0.99"
+      },
+      "billList": [
+       {
+        "code": "ITEM_TOTAL_FEE",
+        "expanded": "false",
+        "title": "商品总价",
+        "value": "0.99"
+       },
+       {
+        "code": "POST_FEE",
+        "expanded": "false",
+        "title": "运费",
+        "value": "0.00"
+       }
+      ],
+      "expectBill": {
+       "title": "预估到手",
+       "value": "0.97"
+      },
+      "softwareBill": {
+       "extInfo": {
+        "feeRuleType": "YXP_IDLE_SHOP"
+       },
+       "iconUrls": [
+        "已脱敏"
+       ],
+       "title": "软件服务费",
+       "value": "-0.02"
+      },
+      "softwareServiceFeeList": []
+     }
+    },
+    "render": "orderInfoVO"
+   }
+  ],
+  "conformRisk": "NONE",
+  "itemId": "1074830713274",
+  "orderId": "3316400474147019790",
+  "peerUserId": "9100039595000",
+  "seller": "true",
+  "sellerAvatar": "已脱敏",
+  "status": "4",
+  "utArgs": {
+   "seller": "true",
+   "globalBizCode": "autotrade",
+   "orderStatusName": "买家已确认收货，交易成功",
+   "orderMainTitle": "已脱敏",
+   "orderId": "3316400474147019790",
+   "xGlobalBizCode": "global|unconsign|c2c",
+   "orderStatus": "4",
+   "_F_idle_pd": "c2c",
+   "idleBizCode": "6000"
+  }
+ },
+ "ret": [
+  "SUCCESS::调用成功"
+ ],
+ "traceId": "2150467017932548252476699e0f1f",
+ "v": "1.0"
+}
